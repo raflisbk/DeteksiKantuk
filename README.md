@@ -13,18 +13,18 @@ Ikuti langkah-langkah berikut untuk mengatur dan menjalankan proyek ini.
 ##Prasyarat
 Proyek ini dapat diatur menggunakan berbagai tools Python lainnya. Namun, dalam proyek ini saya menggunakan Conda untuk mengelola lingkungan pengembangan.
 
-##Langkah-langkah :
-***Buka Terminal Perangkat Anda***
+##Langkah-langkah :##
+**Buka Terminal Perangkat Anda**
 
 Aktifkan Environment Conda Anda
 Jika Anda menggunakan Conda, ganti "your environment" dengan nama environment Conda Anda, kemudian jalankan perintah berikut:
 ```bash
 conda activate "your environment"
 ```
-***Install library yang dibutuhkan Instal semua library Python yang diperlukan menggunakan file requirement.txt:***
+**Install library yang dibutuhkan Instal semua library Python yang diperlukan menggunakan file requirement.txt:**
 ```bash
 pip install -r requirement.txt
 ```
-***Jalankan Aplikasi***
+**Jalankan Aplikasi**
 ```bash
 python/Demo Program/program.py
