@@ -1,4 +1,4 @@
-# DeteksiKantuk
+# Deteksi Kantuk Menggunakan Algortima LSTM dan Parameter Facial (dlib_faceLandmark)
 Proyek ini merupakan sistem deteksi kantuk yang menggunakan parameter fitur wajah dan dataset UTA Real-Life Drowsiness Dataset (UTA RLDD). Dengan memanfaatkan dlib_facelandmark, sistem ini mengekstraksi atribut utama wajah seperti Eye Aspect Ratio (EAR), Mouth Aspect Ratio (MAR), dan Mouth Opening Extent (MOE) untuk mendeteksi tanda-tanda kantuk.
 
 ## Fitur Utama
