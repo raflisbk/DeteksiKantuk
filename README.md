@@ -23,7 +23,7 @@ conda activate "your environment"
 ```
 **Install library yang dibutuhkan Instal semua library Python yang diperlukan menggunakan file requirement.txt:**
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 **Jalankan Aplikasi**
 ```bash
