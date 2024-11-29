@@ -18,7 +18,7 @@ Buka Terminal Perangkat Anda
 
 Aktifkan Environment Conda Anda
 Jika Anda menggunakan Conda, ganti "your environment" dengan nama environment Conda Anda, kemudian jalankan perintah berikut:
-
+``bash
 conda activate "your environment"
 Install library yang dibutuhkan Instal semua library Python yang diperlukan menggunakan file requirement.txt:
 
