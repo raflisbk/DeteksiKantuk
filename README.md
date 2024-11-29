@@ -26,5 +26,5 @@ conda activate "your environment"
 pip install -r requirement.txt
 ```
 ***Jalankan Aplikasi***
-
+```bash
 python/Demo Program/program.py
